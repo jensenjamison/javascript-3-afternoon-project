@@ -19,7 +19,9 @@ let product = {
 
 // code here
 
-
+function productCopy(){
+  
+}
 
 
 ////////// PROBLEM 2 //////////
@@ -30,7 +32,9 @@ let colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
 // code here
 
-
+function colorsCopy(){
+  
+}
 
 
 ////////// PROBLEM 3 //////////
